@@ -3,16 +3,16 @@ body {
 }
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 h2{
     font-family: "Lucida Grande", Tahoma, sans-serif;
     text-align: center;
-    border-collapse: collapse;
 }
 th,td{
     padding: 10px;
     border: 1px solid black;
-    border-style: ;
+    border-collapse: collapse;
 }
 th{
     font-family: "patua one", cursive;
